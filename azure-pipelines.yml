@@ -1,5 +1,5 @@
 variables:
-  buildConfiguration: 'Release Pipeline'
+  buildConfiguration: 'Release'
 
 stages:
 - stage: 'Build'
